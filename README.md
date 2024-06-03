@@ -1,4 +1,4 @@
-# Hello there you slimy dope dealers 👋
+# Hey thanks for creeping on my GitHub account 👋
 
 <!--
 **ntripathy29/ntripathy29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
