@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collabo
 - ⚡ Fun fact: I sell dog leashes
 -->
-- 🔭 I’m currently working on figuring out some project
+- 🔭 I’m currently working on figuring out some projects
+
+## balls
 - 🌱 I’m currently learning how to code
 - 👯 I’m looking to collabo
 - ⚡ Fun fact: I sell dog leashes
